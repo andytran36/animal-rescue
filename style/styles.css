@@ -1,0 +1,24 @@
+.welcome{
+	height: 200px;
+	text-align: center;
+}
+
+.welcomeTxt{
+	padding-top: 80px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+	color: black;
+	font-size: 20px;
+	text-align: left;
+}
+
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}

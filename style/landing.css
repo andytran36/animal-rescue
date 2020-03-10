@@ -1,0 +1,57 @@
+.splash{
+    background-image: url("../imgs/landingPic.jpg");
+	background-size: cover;
+	padding-bottom: 200px;
+	text-shadow: 0px 4px 3px black,
+				 0px 8px 13px grey,
+				 0px 18px 23px white;
+}
+
+.main {
+	padding-top: 50px;
+	font-size: 1.2em;
+}
+
+.main p { 
+	width: 50%;
+	margin: 0 50px;
+}
+
+.info {
+	font-size: 1.4em;
+	padding: 50px 0;
+}
+
+#content{
+	text-align: center;
+	color: white;
+	padding-top: 30%;
+} 
+
+body{
+	font-family: Lato;
+	font-weight: bold;
+}  
+
+.splash h1{
+	font-size: 5em;
+	
+} 
+
+h1 {
+	font-size: 2em;
+}
+
+html{
+	height: 100%;
+}	
+
+.spacer{
+	height: 0em;
+}
+
+hr{
+	width: 400px;
+	border: 1px solid #f8f8f8;
+	color: grey;
+}
